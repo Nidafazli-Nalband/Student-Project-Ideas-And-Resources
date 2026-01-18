@@ -1,8 +1,8 @@
 # 🌟 PROJECT HUB – Ideas, Paths & Resources
 
-![PROJECT HUB Banner](./A_digital_banner_for_%22PROJECT_HUB%22_for_final_year_.png)
+![PROJECT HUB Banner](./project-hub-banner.png)
 
-<p align="right">
+<p align="center">
 A curated hub of practical project ideas for students who want to build, learn, and grow.
 </p>
 
